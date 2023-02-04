@@ -9,7 +9,7 @@ Tout d’abord, pour lancer le programme, une fois dans le dossier contenant tou
 Cependant, cette commande ne doit pas s’écrire seul il faut obligatoirement saisir l’option -f suivi du fichier de données se trouvant dans le repertoire. 
 L’option -f  et son argument [FICHIER] :
 
-  -f <nom_fichier> 		(f)ichier d’entrée : Cette option est obligatoire. Le nom du fichier d’entrée doit être renseigné pour que le script puisse acquérir toutes les données.
+   -f <nom_fichier> 		(f)ichier d’entrée : Cette option est obligatoire. Le nom du fichier d’entrée doit être renseigné pour que le script puisse acquérir toutes les données.
 
 En plus, au moins une de ces options doit être choisie pour que le script fonctionne. Il est possible d’en activer plusieurs, mais certaones combinaison ne fonctionnent pas comme -t1 et p1 en meme temps.
 
